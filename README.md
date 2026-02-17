@@ -41,4 +41,8 @@ npm run start
 - Run in **production** (`build` + `start`)
 - Chrome Incognito → DevTools → Lighthouse
 
+<img width="593" height="746" alt="Image" src="https://github.com/user-attachments/assets/bd0c1911-c826-4c74-9d1f-de13f7bce6de" />
+
 ## Build analizer
+
+<img width="1199" height="685" alt="Image" src="https://github.com/user-attachments/assets/22037c79-6089-4ffc-8a82-86cce679384d" />
